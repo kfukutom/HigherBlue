@@ -1,8 +1,6 @@
-# 💙 HigherBlue - Navigate UofM Like a Pro! 💙
+# HigherBlue - Navigate UofM Like a Pro
 
-Welcome to **HigherBlue**, the ultimate campus navigation app specifically designed for students, faculty, and visitors of the **University of Michigan**! 🎓
-
-Whether you're new to campus or a seasoned Wolverine 🐾, HigherBlue is here to guide you through every corner of UofM, helping you make the most of your time on one of the most iconic campuses in the world.
+Welcome to **HigherBlue**, the ultimate campus navigation app specifically designed for students, faculty, and visitors of the **University of Michigan** 🎓
 
 ## 🎯 Features
 HigherBlue is designed with you in mind, offering a wide array of features that make campus navigation as easy as possible:
@@ -15,7 +13,7 @@ HigherBlue is designed with you in mind, offering a wide array of features that 
 - **Bus Routes & Stops** 🚍: Easily navigate UofM’s extensive bus system with live updates and route maps.
 - **Accessibility Friendly** ♿: Includes accessible route options for differently-abled users.
 
-## 💻 Tech Stack
+## 💻 Potential Tech Stack(s)
 
 HigherBlue is built using cutting-edge technology to ensure a seamless user experience and robust performance.
 
@@ -25,21 +23,16 @@ HigherBlue is built using cutting-edge technology to ensure a seamless user expe
 - **Maps**: Mapbox API (for dynamic and interactive map features) 🗺️
 - **Authentication**: Firebase Auth (secure login with UofM credentials) 🔒
 
-## 🔥 Why HigherBlue?
-- **Designed for UofM** 🏟️: HigherBlue isn't just another navigation app—it's custom-tailored to the needs of the Michigan community.
-- **Fast & Intuitive** 🏃‍♀️: With a simple interface and lightning-fast searches, you'll get where you need to go in seconds.
-- **Constantly Updated** 🔄: Our team regularly updates the app with new features, campus changes, and user suggestions.
-- **Community-Driven** 👥: Got a suggestion for a new feature or found a bug? We’re always listening to feedback from students like you!
-
-## 🚀 Getting Started
+## 🚀 Let's Get Started
 
 Want to try it out? Follow these steps to get HigherBlue up and running on your local machine:
 
 ### Prerequisites
 Make sure you have the following installed:
+- XCode iOS ver. 13.0.0 and up
 - Node.js
 - React Native CLI
-- MongoDB (local or cloud instance)
+- MongoDB (cloud instance)
 
 ### Installation
 
@@ -65,18 +58,7 @@ Make sure you have the following installed:
     react-native run-ios       # for iOS
     ```
 
-6. **Enjoy your journey through UofM!** 🎓💙
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/UofM_Logo.png" alt="HigherBlue Screenshot" width="300"/>
-  <img src="https://user-images.githubusercontent.com/UofM_Map.png" alt="HigherBlue Map" width="300"/>
-</p>
-
-## 🤝 Contributing
-
-Want to contribute to HigherBlue? We’d love your help!
+## 🤝 Contributions
 
 1. Fork the project.
 2. Create your feature branch: `git checkout -b feature/YourFeature`.
@@ -84,15 +66,7 @@ Want to contribute to HigherBlue? We’d love your help!
 4. Push to the branch: `git push origin feature/YourFeature`.
 5. Open a pull request.
 
-## 📬 Contact Us
-
-Got questions or suggestions? Feel free to reach out to us at:
-- **Email**: support@higherblue.io
-- **Twitter**: [@HigherBlueApp](https://twitter.com/HigherBlueApp)
-
 ---
-
-Enjoy your time at the University of Michigan, and let HigherBlue be your ultimate guide! 🎉
 
 # Go Blue! 💙💛
 
