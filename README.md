@@ -2,7 +2,7 @@
 
 Welcome to **HigherBlue**, the ultimate campus navigation app specifically designed for students, faculty, and visitors of the **University of Michigan** 🎓
 
-## 🎯 Features
+## Features
 HigherBlue is designed with you in mind, offering a wide array of features that make campus navigation as easy as possible:
 
 - **Interactive Campus Map** 🗺️: Find your way around the UofM campus effortlessly with real-time navigation.
@@ -17,13 +17,13 @@ HigherBlue is designed with you in mind, offering a wide array of features that 
 
 HigherBlue is built using cutting-edge technology to ensure a seamless user experience and robust performance.
 
-- **Frontend**: React Native (for a smooth mobile app experience on iOS and Android) ⚛️
-- **Backend**: Node.js with Express (fast and scalable API) 🚀
-- **Database**: MongoDB (to store maps, routes, and schedules) 🗄️
-- **Maps**: Mapbox API (for dynamic and interactive map features) 🗺️
+- **Frontend**: React Native (for a smooth mobile app experience on iOS and Android) ⚛
+- **Backend**: Node.js with Express (fast and scalable API) 
+- **Database**: MongoDB (to store maps, routes, and schedules) 
+- **Maps**: Mapbox API (for dynamic and interactive map features) 
 - **Authentication**: Firebase Auth (secure login with UofM credentials) 🔒
 
-## 🚀 Let's Get Started
+## Getting Started
 
 Want to try it out? Follow these steps to get HigherBlue up and running on your local machine:
 
