@@ -14,8 +14,10 @@ HigherBlue is designed with you in mind, offering a wide array of features that 
 - **Accessibility Friendly** ♿: Includes accessible route options for differently-abled users.
 
 ## Screenshots:
+
+![Coding Example](./img-assets/coding.png)
 <p align="center">
-    ![Image Alt text](/img-assets/coding.png)
+    As of September 8th, 2024 - I'm Learning SwiftUI and Backend
 </p>
 
 ## 💻 Potential Tech Stack(s)
