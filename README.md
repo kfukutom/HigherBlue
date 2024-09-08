@@ -15,7 +15,7 @@ HigherBlue is designed with you in mind, offering a wide array of features that 
 
 ## Screenshots:
 <p align="center">
-    ![Image Alt text](/additional/kNearNeigh.gif)
+    ![Image Alt text](/img-assets/coding.png)
 </p>
 
 ## 💻 Potential Tech Stack(s)
