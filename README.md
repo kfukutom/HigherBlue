@@ -13,6 +13,11 @@ HigherBlue is designed with you in mind, offering a wide array of features that 
 - **Bus Routes & Stops** 🚍: Easily navigate UofM’s extensive bus system with live updates and route maps.
 - **Accessibility Friendly** ♿: Includes accessible route options for differently-abled users.
 
+## Screenshots:
+<p align="center">
+    ![Image Alt text](/additional/kNearNeigh.gif)
+</p>
+
 ## 💻 Potential Tech Stack(s)
 
 HigherBlue is built using cutting-edge technology to ensure a seamless user experience and robust performance.
